@@ -46,17 +46,19 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+
+I did not use any outside resources.
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+
+There weren’t too many challenges when just following the instructions as presented by the material. I did have a little bit of trouble exporting the glitch project to Github as the website format was a little bit different from the example video but after a little bit of clicking around I was able to figure it out. What I did find to be challenging and something that I think would require a lot more time and effort would be familiarizing myself with all of the various functions that come packaged with HTML, CSS, and Javascript, especially some of the outside packages that we didn’t delve to deeply into (like the tone sound functions). I spent a little bit of extra time trying to really understand what was happening logically with those functions because we didn’t really write them ourselves and we had to take for granted that they did something interesting. I can tell that what we were given was just the tip of the iceberg and that building larger and more complex projects would really entail a commitment to understanding how the logic in a function interacts with other elements of the program (like the DOM). 
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 [YOUR ANSWER HERE]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
 
+I can see that there is a lot of online material for learning different frameworks for front -end development and I’m sure those will come into play in the future, especially if we want to build larger projects more quickly. I’m also very curious to learn about how to use data bases and setting up a backend to interact with all of the cool things that we set up on a screen. I’m aware that we need to know how APIs work and how getting and sending information from a data base through requests is a big part of making front end development useful to people running websites that provide or manage some kind of information. I’m also interested to know how much web development breaks up front-end and back -end responsibilities, as well as how cloud technologies affect the workflow.
 
 
 ## Interview Recording URL Link
