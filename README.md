@@ -40,8 +40,8 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 ![](http://g.recordit.co/iYs9VpU1MR.gif)
-![](gif2-link-here)
-![](gif3-link-here)
+![](https://recordit.co/cRbjTWEJGk)
+![](https://recordit.co/mk7Vdbn5rU)
 ![](gif4-link-here)
 
 ## Reflection Questions
@@ -63,7 +63,7 @@ I can see that there is a lot of online material for learning different framewor
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+https://oregonstate.zoom.us/rec/share/0TpMF2gY7Y_50xIBIoiWoSP8nOzxnGyrsmrRQ65OFF4IXeEXIZ_uiXUc3Ctn5ibq.rSk6EbtYCKC-kvjY?startTime=1648677404000 (Passcode: 4=4+EqK3)
 
 
 ## License
