@@ -59,6 +59,8 @@ I can see that there is a lot of online material for learning different framewor
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 
+If I had a few more hours to work on this program I would probably spend more time working on the bonus features, I didn’t have much time to get to them. After that, something that I think would be fun to implement would be a multiplayer option that allowed users to set their own patterns and challenge their friends to remember. This feature could also keep track of scores to maintain a fun element of competition. Another thing I would take a look at are additional libraries that could make the game more lively, maybe a way to change the tone or to change the colors based on wrong choices.
+
 
 
 
